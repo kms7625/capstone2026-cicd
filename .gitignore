@@ -1,0 +1,17 @@
+backend/target/
+frontend/build/
+frontend/node_modules/
+
+application-local.yml
+.env
+*.key
+*.pem
+
+.idea/
+*.iml
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+docker-compose.override.yml
